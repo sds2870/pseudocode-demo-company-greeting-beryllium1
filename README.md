@@ -11,3 +11,7 @@
 2. If today is Thursday and Friday is a holiday, begrudgingly demand that the employee enjoy their "long weekend."
 
 3. Check the employee's current hours for the week. If they are getting close to overtime, remind the employee of their current hours with a warning.
+
+## If you have already forked and cloned this repository
+
+1. In your terminal, in the folder for this project, run `git stash` to stow away any changes you may have made.
