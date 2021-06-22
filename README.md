@@ -1,6 +1,6 @@
 # Pseudocode Demo: Company Greeting
 
-Welcome to Archnemesis, Inc. – the company that cares!
+## Welcome to Archnemesis, Inc. – the company that cares!
 
 ### Requirements
 
