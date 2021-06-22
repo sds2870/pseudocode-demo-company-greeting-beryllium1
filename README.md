@@ -2,6 +2,8 @@
 
 ## Welcome to Archnemesis, Inc. – the company that cares!
 
+<img src="/Pseudocode 01 - Welcome to Archnemesis.png" alt="Welcome to Archnemesis">
+
 ### Requirements
 
 1. Write a unique morning greeting for each day of the week.
